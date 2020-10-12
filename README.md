@@ -1,16 +1,18 @@
-# shrsad
+# Responsive
+## Flutter App 
 
-A new Flutter project.
+### Training project
 
-## Getting Started
+ **Responsiv** 
 
-This project is a starting point for a Flutter application.
+- Small phone 👍 
 
-A few resources to get you started if this is your first Flutter project:
+- Medium phone  👍
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Large phone 👍
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Small tablet 👍
+
+- Medium tablet 👍
+
+<img src="https://user-images.githubusercontent.com/63757519/95728941-6da5ea00-0c7c-11eb-9fca-bbab3181fc46.png" width = "400">
